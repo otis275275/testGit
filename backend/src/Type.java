@@ -1,4 +1,7 @@
 public enum Type {
     local,
-    remote
+    remote,
+    pending,
+    ready,
+    done
 }
